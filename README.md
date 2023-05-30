@@ -25,6 +25,8 @@ The second Function is a Computer Vision model restricted to the data science li
 
 IOT code: https://github.com/MohamedWaelAlsayed/ESP32_AWS
 
+Lambda codes: https://github.com/MohamedWaelAlsayed/RiceUp-AWS-lambda-functions
+
 ![image](https://github.com/MohamedWaelAlsayed/rice-up/assets/62488272/0ba81342-e95b-4bc7-97fe-733b16f9a295)
 
 ## Deployment of Machine learning Model
