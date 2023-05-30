@@ -21,6 +21,8 @@ The second Function is a Computer Vision model restricted to the data science li
 
 ## IOT App Integration
 ![Screenshot 2023-05-29 234244](https://github.com/MohamedWaelAlsayed/rice-up/assets/62488272/d5540a5d-cb2a-49f6-b889-a567ace36654)
+
+
 IOT code: https://github.com/MohamedWaelAlsayed/ESP32_AWS
 
 ![image](https://github.com/MohamedWaelAlsayed/rice-up/assets/62488272/0ba81342-e95b-4bc7-97fe-733b16f9a295)
