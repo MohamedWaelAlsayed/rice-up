@@ -22,6 +22,10 @@ Lambda codes: <https://github.com/MohamedWaelAlsayed/RiceUp-AWS-lambda-functions
 
 ![image](https://github.com/MohamedWaelAlsayed/rice-up/assets/62488272/0ba81342-e95b-4bc7-97fe-733b16f9a295)
 
+ERD for RDS
+
+![Uploading image (2).png…]()
+
 ## Deployment of Machine learning Model
 
 ![WhatsApp Image 2023-05-30 at 00 42 16](https://github.com/MohamedWaelAlsayed/rice-up/assets/62488272/d3f72f86-49f6-42a2-af99-166956ee6b6e)
