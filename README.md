@@ -2,6 +2,9 @@
 
 Rice diseases are various and threaten the economy and there are 2 most common diseases in Egypt Brown and Blast these 2 diseases are very similar and cannot differentiate between them in their early stages, So the goal of our application is early detection of these diseases to avoid damages and help user to take an accurate and reliable Decision to improve Rice Quality as possible as.
 
+See the video shows the running of the application: https://www.linkedin.com/posts/mohamedwaelalsayed_aws-iot-egypt-activity-7069059071399608320-OuY7?utm_source=share&utm_medium=member_desktop
+
+
 ## ➤Rice UP is an IoT based System that contains mainly 2 features
 
 1. IoT with AWS
